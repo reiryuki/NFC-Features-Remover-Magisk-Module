@@ -1,0 +1,8 @@
+id=NFCFeaturesRemover
+name=NFC Features Remover
+version=v0.1
+versionCode=1
+author=Rei Ryuki the Fixer
+description=Removes android.hardware.nfc related features systemlessly.
+
+
