@@ -15,8 +15,11 @@ v0.1
 - Initial release
 
 ## Installation Guide & Download Link
-- Install this module https://devuploads.com/6beis8nq8hz7 via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
+- Install this module https://bicolink.com/fzV40yVE via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
 - Reboot
+
+## Download Tutorial
+https://t.me/ryukinotes/97
 
 ## Support & Bug Report
 - https://t.me/ryukinotes/54
