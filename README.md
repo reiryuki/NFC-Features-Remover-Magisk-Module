@@ -15,7 +15,7 @@ v0.1
 - Initial release
 
 ## Installation Guide & Download Link
-- Install this module https://bicolink.com/fzV40yVE via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
+- Install this module https://move2link.co/cd08b32 via Magisk app or Kitsune Mask app or KernelSU app or Apatch app or Recovery if Magisk or Kitsune Mask installed
 - Reboot
 
 ## Download Tutorial
